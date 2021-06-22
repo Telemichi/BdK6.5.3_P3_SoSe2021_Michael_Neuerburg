@@ -1,2 +1,2 @@
 # Bdk P3 SoSe2021
-Name: VORNAME NACHNAME
+Name: Michael Johannes Neuerburg
