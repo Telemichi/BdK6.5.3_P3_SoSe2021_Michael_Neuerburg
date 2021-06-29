@@ -6,7 +6,8 @@
 Atom
 
 ## 2. Eine Python-Bibliothek
-Ihre Antwort
+
+Ich habe die Python-Bibliothek ... ausgewählt.
 
 ## 3. Eine Fehlermeldung und Ihre Lösung
 Ihre Antwort
