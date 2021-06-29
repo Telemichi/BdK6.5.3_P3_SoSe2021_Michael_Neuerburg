@@ -7,7 +7,7 @@ Atom
 
 ## 2. Eine Python-Bibliothek
 
-Ich habe die Python-Bibliothek ... ausgewählt.
+Ich habe die Python-Bibliothek PrettyErrors (pretty-errors) ausgewählt. Die Bibliothek macht die stack traces schneller verständlich und lesbarer, indem  es Absätze einfügt und wichtige Elemente mit Farbe hervorhebt. Sie ist für viele Dinge hilfreich, vorallem um den Fehler zu finden. Die Suche kann bei einem gewissen Umfang sehr viel Zeit kosten. 
 
 ## 3. Eine Fehlermeldung und Ihre Lösung
 Ihre Antwort
