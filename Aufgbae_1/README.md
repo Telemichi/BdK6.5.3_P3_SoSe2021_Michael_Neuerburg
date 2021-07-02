@@ -20,3 +20,5 @@ Darüber hinaus ist JupyterLab sehr stark anpassbar und kann leicht erweitert we
 
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django
+
+Der größte Unterschied zwischen den beiden Webframeworks ist, das Flask wenig vorgibt und z.B. kein ORM integriert hat. Daher ist man bei der Verwendung freier in der Wahl der einzelnen Komponenten. Django derweil gibt die einzelnen Komponenten als All-in-One-Packet vor. 
