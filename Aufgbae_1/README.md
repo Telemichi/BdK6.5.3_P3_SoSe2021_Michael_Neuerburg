@@ -10,7 +10,12 @@ Atom
 Ich habe die Python-Bibliothek PrettyErrors (pretty-errors) ausgewählt. Die Bibliothek macht die stack traces schneller verständlich und lesbarer, indem  es Absätze einfügt und wichtige Elemente mit Farbe hervorhebt. Sie ist für viele Dinge hilfreich, vorallem um den Fehler zu finden. Die Suche kann bei einem gewissen Umfang sehr viel Zeit kosten.
 
 ## 3. Eine Fehlermeldung und Ihre Lösung
-Ihre Antwort
+
+#Ein Fehler:  
+Um die Variable Title ansprechen zu können muss vorher eine spezifische Doi angesprochen werden. Jedoch ist die Doi eine Zahl, weswegen sie als Variable nicht so verwendet werden kann.
+#Eine Lösung:
+
+
 
 ## 4. Was ist JupyterLab?
 
@@ -21,4 +26,4 @@ Darüber hinaus ist JupyterLab sehr stark anpassbar und kann leicht erweitert we
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django
 
-Der größte Unterschied zwischen den beiden Webframeworks ist, das Flask wenig vorgibt und z.B. kein ORM integriert hat. Daher ist man bei der Verwendung freier in der Wahl der einzelnen Komponenten. Django derweil gibt die einzelnen Komponenten als All-in-One-Packet vor. 
+Der größte Unterschied zwischen den beiden Webframeworks ist, das Flask wenig vorgibt und z.B. kein ORM integriert hat. Daher ist man bei der Verwendung freier in der Wahl der einzelnen Komponenten. Django derweil gibt die einzelnen Komponenten als All-in-One-Packet vor.
