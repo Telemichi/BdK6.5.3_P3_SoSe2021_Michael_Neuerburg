@@ -14,7 +14,7 @@ Ich habe die Python-Bibliothek PrettyErrors (pretty-errors) ausgewählt. Die Bib
 #Ein Fehler:  
 Um die Variable Title ansprechen zu können muss vorher eine spezifische Doi angesprochen werden. Jedoch ist die Doi eine Zahl, weswegen sie als Variable nicht so verwendet werden kann.
 #Eine Lösung:
-
+Indem ich die Zahl in eine Klammer mit str setze. Beispiel: str(1234), so wird aus dem integer ein string. 
 
 
 ## 4. Was ist JupyterLab?
